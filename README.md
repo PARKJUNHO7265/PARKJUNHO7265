@@ -4,7 +4,7 @@ Hi, My name is PARKJUNHO.
 <h3>What I am interested in</h3> 
 I’m interested in Artificial Intelligence, especially in Advanced Driver Assistance System.
 
-<h3>What am I doing?</h3> 
+<h3>What I learn</h3> 
 I’m currently learning about Object Detection and Line Tracking using Opencv tool on python.
 
 <h3>프로젝트</h3>
