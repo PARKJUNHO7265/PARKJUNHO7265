@@ -1,5 +1,5 @@
 <h3>My name</h3>
-Hi, My name is PARKJUNHO.
+박준호
 
 <h3>What I am interested in</h3> 
 I’m interested in Artificial Intelligence, especially in Advanced Driver Assistance System.
@@ -14,5 +14,7 @@ I’m currently learning about Object Detection and Line Tracking using Opencv t
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="32" height="32" class="d-block rounded-1 mr-3 flex-shrink-0" alt="matlab logo">
 <div>
 
-
+<h3>STAT</h3>
+<div>   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKJUNHO7265&show_icons=true&theme=radical)
+<div>
