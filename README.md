@@ -1,23 +1,28 @@
-<h3>내 정보</h3>
-이름 : 박준호 <br/>
-전공 : 전자전기공학
+<h3>:information_desk_person: Information</h3>
+Name&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;PARK JUNHO <br/>
+Major&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;Electronic and Electrical Engineering<br/>
+Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;dh05081@naver.com<br/>
 
-<h3>관심있는것</h3> 
-차량의 다양한 제어시스템에 대해 공부하고 있으며 <br/>
-매트랩과 시뮬링크를 활용하여 제어 알고리즘을 설계하고 시뮬레이션하며 공부하고 있습니다.
+<h3>:book: Studying</h3> 
+Modeling control system of Autonomous Driving Vehicle <br/>
+Simulate through MATLAB & SIMULINK<br/>
 
-<h3>수행한 프로젝트</h3>
-1. 캡스톤디자인 : RESNET18과 YOLO를 활용한 실시간 수화통역기 모델 제작 <br/>
-2. S-Hero 실전문제연구단 : Python 기반의 OPENCV 와 라즈베리파이 그리고 아두이노를 활용하여 분리결합형 자율주행 차량 프로토타입 제작
+<h3>:heavy_check_mark: Projects</h3>
+#1 Modeling Real-time Sign Language Translator using RESNET18 and YOLO<br/>
+#2 Make prototype of "Separating and Coupling Autonomous Vehicle" using Opencv, RasberryPi and Arudino<br/>
 
-<h3>활용 언어</h3>
+<h3>:running: Proceeding Project</h3>
+Add various control system to model which I have already created in "Separating and Coupling Autonomous Vehicle"<br/>
+
+<h3>:computer: Languages</h3>
 <div>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="32" height="32" class="d-block rounded-1 mr-3 flex-shrink-0" alt="matlab logo">
-<div>
-<h3>User Stats</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJUNHO7265&langs_count=10&layout=compact)](https://github.com/PARKJUNHO7265/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh05081)](https://solved.ac/dh05081/)
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/Matlab-F96702?style=for-the-badge&logo=MATLAB&logoColor=white"/></a>
+<div><br/>
+  
+<h3>:mag_right: Stats</h3>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh05081)](https://solved.ac/dh05081/)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJUNHO7265&langs_count=10&layout=compact&theme=dark)](https://github.com/PARKJUNHO7265/PARKJUNHO7265)
