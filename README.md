@@ -18,6 +18,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="32" height="32" class="d-block rounded-1 mr-3 flex-shrink-0" alt="matlab logo">
 <div>
 <h3>User Stats</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJUNHO7265&langs_count=10&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJUNHO7265&langs_count=10&layout=compact)](https://github.com/PARKJUNHO7265/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh05081)](https://solved.ac/dh05081/)
